@@ -1,6 +1,8 @@
 # Read Me
 
 
+## If you want to see the results please choose the 'Word2vec_and_Textrank_summarizer_MSG.html'
+
 ### Nature_moon.txt
 Link for the article "The Moon’s mantle unveiled" can be found here: https://www.nature.com/articles/d41586-019-01479-x
 
@@ -22,7 +24,7 @@ to make a descent text summarizer.
 
 You can also make your own word-embeddings, but that will wait for another repository.
 
-Enoy and great coding...
+### Enoy and great coding...
 
 
 Mohammad Ghadban
