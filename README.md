@@ -1,10 +1,8 @@
 # Read Me
 
-#### To VIEW THE HTML PAGE 
-GO HERE http://htmlpreview.github.io/
-ADD THis think https://github.com/Emesgee/TextRankSummarizer/blob/master/Word2vec_and_Textrank_summarizer_MSG.html
-
 #### If you want to see the results please choose the 'Word2vec_and_Textrank_summarizer_MSG.html'
+GO HERE http://htmlpreview.github.io/
+Add the link https://github.com/Emesgee/TextRankSummarizer/blob/master/Word2vec_and_Textrank_summarizer_MSG.html
 
 ### Nature_moon.txt
 Link for the article "The Moon’s mantle unveiled" can be found here: https://www.nature.com/articles/d41586-019-01479-x
