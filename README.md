@@ -7,9 +7,6 @@
 ### Nature_moon.txt
 Link for the article "The Moon’s mantle unveiled" can be found here: https://www.nature.com/articles/d41586-019-01479-x
 
-I've used pretrained word-embeddings from 
- 
-
 
 ### word-embeddings I've used is from Kaggle
 2 million word vectors trained on Common Crawl (600B tokens)
